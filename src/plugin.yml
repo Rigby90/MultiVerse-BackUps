@@ -1,0 +1,5 @@
+name: MultiVerse-BackUps
+main: com.onarandombox.MultiVerseBackUps.MultiVerseBackUps
+authors: ['Rigby','Protected']
+version: 2.0
+commands:
